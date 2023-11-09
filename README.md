@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alekshiga
-- 👀 I’m interested in machine learning, AI and just writing clean code 
+- 👀 I’m interested in writing clean code
 - 🌱 I’m currently learning java, OOP design patterns
 - 💞️ I’m looking to collaborate on ANY JOB I JUST WANNA LEARN
 - 📫 How to reach me -> alekshiga@vk.com
